@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:gravity="start"
+    tools:context=".Activity.SettingActivity">
+
+    <ImageView
+        android:id="@+id/save"
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:background="@drawable/tick"
+        android:layout_gravity="right"
+        android:padding="@dimen/_10sdp"
+        android:layout_margin="@dimen/_10sdp"/>
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/setting_image"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/images2"
+        android:layout_gravity="center"
+        app:civ_border_width="2dp"
+        app:civ_border_color="#FF000000"/>
+    <EditText
+        android:id="@+id/setting_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:text="@string/app_name"
+        android:background="@null"
+        android:gravity="center"
+        android:textSize="@dimen/_20sdp"/>
+    <EditText
+        android:id="@+id/setting_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:text="hey im here "
+        android:background="@null"
+        android:gravity="center"
+        android:textSize="@dimen/_15sdp"/>
+
+</LinearLayout>

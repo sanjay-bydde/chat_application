@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862213980070",
+    "project_id": "tech-chatty-e1f8c",
+    "storage_bucket": "tech-chatty-e1f8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862213980070:android:ad02a07025a2a2532e5967",
+        "android_client_info": {
+          "package_name": "com.example.techchatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862213980070-tj6s32291ru44ftbv00lbgtrvf9ck731.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvaqWIQXp9Xfy60dJyEYnfUtRhdbXKjjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862213980070-tj6s32291ru44ftbv00lbgtrvf9ck731.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

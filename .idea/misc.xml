@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/drawable/empty_bac.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1485" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/drawable/message_box.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/drawable/reciver_shape.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/drawable/rounded_button.xml" value="0.1" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/drawable/rounded_buttons.xml" value="0.34285714285714286" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/drawable/sender_shape.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/drawable/shape.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/drawable/shape_dialog.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/layout/activity_chat.xml" value="0.2" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/layout/activity_registration.xml" value="0.264" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/layout/activity_setting.xml" value="0.264" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/layout/dialog_layout.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/layout/item_user_row.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/layout/reciver_layout_item.xml" value="0.4" />
+        <entry key="..\:/Users/sanja/AndroidStudioProjects/Techchatty/app/src/main/res/layout/sender_layout_item.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
